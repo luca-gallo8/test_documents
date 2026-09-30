@@ -1,2 +1,2 @@
 # test_documents
-[test.md](test)
+[test](test.md)
